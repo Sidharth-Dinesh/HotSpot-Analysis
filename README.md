@@ -1,3 +1,4 @@
 # HotSpot-Analysis
 
-Implemented a Scala program to calculate the Getis-Ord statistic of NYC Taxi Trip datasets to identify statistically significant spatial hot spots using Apache Spark.
+• Implemented a large-scale program in Scala to analyze the statistics in the Big Data NYC Taxi Trip Dataset.  
+• Identified statistically significant spatial hot spots using Python, Apache Hadoop, Spark and MongoDB.
